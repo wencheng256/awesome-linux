@@ -153,9 +153,9 @@
 > openSUSE项目是一个被SUSELinux和其他公司赞助的社会计划。 为了推进Linux使用的普及，这个计划提供了免费、易用的完整Linux发行版openSUSE。openSUSE项目有三个主要目标: 让openSUSE成为用户能够获取的最易用且适用最广的Linux发行版。利用开源合作，让openSUSE成为这个最为普及的Linux发行版和桌面环境。极度简化开放开发打包进程，让openSUSE成为Linux开发者和软件第三方的选择。
 同样，它为有经验的用户提供了滚动更新版本——Tumbleweed。
 
-**最新版本:** openSUSE Leap 42.1 and openSUSE Tumbleweed (Rolling Release system)
+**最新版本:** openSUSE Leap 42.1 和openSUSE Tumbleweed (滚动更新版本)
 
-**默认桌面环境：** KDE, GNOME, XFCE, LXDE (Choose on installation)
+**默认桌面环境：** KDE, GNOME, XFCE, LXDE （安装时选择）
 
 **截图：**
 
@@ -167,11 +167,11 @@
 
 > Arch Linux 是一款跨平台开发，i686和x86_64最佳的Linux发行版，旨在胜任Linux用户的需求。它使用pacman（吃豆人）作为原生包管理器，以提供全依赖更新服务。使用滚动更新的系统，Arch可以通过一个CD镜像安装，也可以通过FTP服务器进行安装。 此外，Arch构建系统(ABS)提供了一个简单的构建、修改、配置和在Arch的仓库中分享包的方式。
 
-**最新版本:** 无(Rolling Release system)
+**最新版本:** 无(滚动更新系统)
 
-**默认桌面环境：** 无(there's no default Desktop environment)
+**默认桌面环境：** 无(没有默认的桌面环境)
 
-**截图：** 无(there's no default look)
+**截图：** 无(没有默认的外观)
 
 > 译者注：简单介绍一下什么叫滚动更新。滚动更新即没有Release版本的限制，每次更新都从上次更新的基础上进行开发，而不是推板重来。这样的好处是极大地提高了系统的兼容性和迭代性，缺点是开发难度会增大而且比较难以引入新的特性。
 
@@ -192,7 +192,7 @@
 
 **专长:** 渗透测试
 
-**最新版本:** 无(Rolling Release system since 2016.1 version)
+**最新版本:** 无(自从2016.1版本之后滚动更新)
 
 #### [Puppy Linux](http://puppylinux.org/)
 
@@ -222,8 +222,6 @@
 
 #### [Debian管理员的工具书，Debian从菜鸟到大师](https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas) [4.8] [[免费](https://debian-handbook.info/get/now/)]
 
-Good book that teaches you the basics of Debian GNU/Linux administration. - [@elninosi](https://github.com/elninosi)
-
 可以教你基础Debian管理的好书 - [@elninosi](https://github.com/elninosi)
 
 
@@ -237,9 +235,6 @@ Good book that teaches you the basics of Debian GNU/Linux administration. - [@el
 由Linux 基金会组织，是一套不错的学习Linux基础的免费教程- [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 #### [Window应用在Linux上的替代品](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS) [免费]
-
-If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
-
 
 如果你习惯了Widnows并且向转战到Linux，这套教程将帮你找到他们之间的转换。它非常的短，你可以在一天内就完成它。 - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
@@ -258,7 +253,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 #### [KDE](https://www.kde.org)
 
-> The KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.
+> KDE® 团体是一个国际科技团队，致力于创建一种自由的用户友好的计算机体验，提供一种高级的图形桌面，拥有大量的应用用来交流、工作、教育和娱乐。同时拥有一个可以简单的创建应用的平台。 我们聚焦于寻找一种新老问题的创新解决方案，创建一种充满生机的实验氛围。
 
 ![screenshot](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
 
@@ -333,6 +328,8 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [wavemon](https://github.com/uoaerg/wavemon) - 一个ncurses为基础的监控无线网络链接的应用程序。
 
 ### GUI应用程序
+
+> 暂不翻译，比较少使用GUI
 
 #### GNOME-based
 
@@ -409,6 +406,6 @@ To add new content to this section, please refer to the `CONTRIBUTING.md` file.
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-linux-software](https://github.com/VoLuong/Awesome-Linux-Software)
 
-## License
+## 证书
 
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.
