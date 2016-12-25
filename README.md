@@ -1,6 +1,6 @@
 # 超凡Linux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
+![linux graphic](../title.jpg)
 
 ## 目录
 
