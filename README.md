@@ -23,7 +23,7 @@
 	    * [Kali Linux](#kali-linux)
 	    * [Puppy Linux](#puppy-linux)
 	    * [Ubuntu Studio](#ubuntu-studio)
-* [源码学习](#learning-resources)
+* [学习资源](#learning-resources)
   * [书籍](#books)
   * [课程](#courses)
 * [GUI环境](#x-desktop-environments)
@@ -31,18 +31,18 @@
   * [KDE](#kde)
   * [Xfce](#xfce)
   * [LXDE](#lxde)
-  * [其他GUI环境](#other-desktop-environments)
-* [GUI管理器](#x-windows-managers)
-* [应用](#applications)
-  * [控制台应用](#console-based-applications)
-  * [GUI应用](#gui-based-applications)
-    * [GNOME-应用](#gnome-based)
-    * [KDE-应用](#kde-based)
-    * [跨平台应用](#not-based-on-any-desktop-environment)
-    * [发行版包管理器](#distro-based-package-management-tools)
-* [有用的网站](#useful-websites)
-* [相关超凡列表](#related-awesome-lists)
-* [证书](#license)
+  * [其他GUI环境](#其他GUI环境)
+* [GUI管理器](#GUI管理器)
+* [应用](#应用)
+  * [控制台应用](#控制台应用)
+  * [GUI应用](#GUI应用)
+    * [GNOME-应用](#GNOME-应用)
+    * [KDE-应用](#KDE-应用)
+    * [跨平台应用](#跨平台应用)
+    * [发行版包管理器](#发行版包管理器)
+* [有用的网站](#有用的网站)
+* [相关超凡列表](#相关超凡列表)
+* [证书](#证书)
 
 ## 发行版
 
@@ -325,7 +325,6 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - 用来恢复删除文件的好工具。
 * [ranger](https://github.com/ranger/ranger) - 一个VIM风格的文件管理器。
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - 可以从控制台获取系统主题的信息。
-* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/) from the CLI.
 * [speed-test](https://github.com/sindresorhus/speed-test) - 在控制台用来测试网络连接速度和延迟。
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - 用来磁盘分区恢复的工具。
 * [tig](http://jonas.nitro.dk/tig/) - git的控制台界面程序。 它主要提供git库浏览，也可以帮助展示不同分支的修改何不同Git命令的输出。
